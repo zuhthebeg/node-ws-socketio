@@ -1,0 +1,17 @@
+{
+  "name": "node-ws-socketio",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zuhthebeg/node-ws-socketio.git"
+  },
+  "dependencies": {
+	"socket.io": "latest"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
